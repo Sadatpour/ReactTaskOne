@@ -1,0 +1,30 @@
+@font-face {
+  font-family: Vazir;
+  font-style: normal;
+  font-weight: bold;
+  src: url("../../assets/fonts/Vazirmatn-Bold.woff2") format("woff2");
+}
+@font-face {
+  font-family: Vazir;
+  font-style: normal;
+  font-weight: black;
+  src: url("../../assets/fonts/Vazirmatn-Black.woff2") format("woff2");
+}
+@font-face {
+  font-family: Vazir;
+  font-style: normal;
+  font-weight: ExteraBold;
+  src: url("../../assets/fonts/Vazirmatn-ExtraBold.woff2") format("woff2");
+}
+@font-face {
+  font-family: Vazir;
+  font-style: normal;
+  font-weight: medium;
+  src: url("../../assets/fonts/Vazirmatn-Medium.woff2") format("woff2");
+}
+@font-face {
+  font-family: Vazir;
+  font-style: normal;
+  font-weight: Regular;
+  src: url("../../assets/fonts/Vazirmatn-Regular.woff2") format("woff2");
+}
