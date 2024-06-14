@@ -37,7 +37,7 @@ export const projectsData = [
     description: "یک سایت شرکتی خدماتی    ",
     status: "OPEN",
     category: {
-      id: 3,
+      id: 2,
       title: "برنامه نویسی وب",
       englishTitle: "web development",
     },
